@@ -2,7 +2,7 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Tru Death",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -15,7 +15,7 @@
 	{
 		"name": "Breeders",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Tru Death",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
@@ -25,6 +25,8 @@
 	{
 		"name": "Dead Barn",
         "replaces": "Granary"
+		"uniqueTo": "Tru Death"
+		"cost": 4,
 		"food": 6,
         "maintenance": 0,
         "hurryCostModifier": 25,
