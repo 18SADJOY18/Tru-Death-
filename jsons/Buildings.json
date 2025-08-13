@@ -43,4 +43,14 @@
 		"hurryCostModifier": 40,
 		"maintenance": 2,
 	},
+	{
+		"name": "True Shrine",
+		"replaces": "Shrine"
+		"uniqueTo": "Tru Death"
+		"faith": 6,
+		"cost": 30,
+		"maintenance": 2,
+		"requiredTech": "Pottery",
+		"uniques": ["Only available <when religion is enabled>"]
+	},
 ]
