@@ -21,5 +21,13 @@
 		"happiness": 2,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Dead Barn",
+        "replaces": "Granary"
+		"food": 6,
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "uniques": ["[+4 Food] from [Deer] tiles [in this city]",
 	}
 ]
