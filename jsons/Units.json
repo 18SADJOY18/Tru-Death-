@@ -50,7 +50,7 @@
 		"replaces": "Archer",
 		"movement": 3,
 		"strength": 8,
-		"rangedStrength": 20,
+		"rangedStrength": 18,
 		"cost": 20,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
