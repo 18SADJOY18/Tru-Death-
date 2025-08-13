@@ -2,7 +2,7 @@
 	{
 		"name": "Phasers",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Tru Death",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
@@ -13,5 +13,20 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+	}
+	{
+		"name": "Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Tru Death",
+		"movement": 3,
+		"strength": 1000,
+		"cost": 10,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
 	}
 ]
