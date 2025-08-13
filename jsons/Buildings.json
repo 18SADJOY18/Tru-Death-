@@ -28,6 +28,6 @@
 		"food": 6,
         "maintenance": 0,
         "hurryCostModifier": 25,
-        "uniques": ["[+4 Food] from [Deer] tiles [in this city]",
+        "uniques": ["[+4 Food] from [Deer] tiles [in this city]"],
 	},
 ]
