@@ -19,7 +19,7 @@
 		"unitType": "Sword",
 		"uniqueTo": "Tru Death",
 		"movement": 3,
-		"strength": 1000,
+		"strength": 12,
 		"cost": 10,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
@@ -32,6 +32,7 @@
 	{
 		"name": "Scout",
 		"unitType": "Scout",
+		"uniqueTo": "Tru Death",
 		"movement": 5,
 		"strength": 2,
 		"cost": 8,
