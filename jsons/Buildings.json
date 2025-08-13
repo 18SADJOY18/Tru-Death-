@@ -33,4 +33,14 @@
         "uniques": ["[+4 Food] from [Deer] tiles [in this city]", "[+4 Food] from [Bananas] tiles [in this city]"],
 		"requiredTech": "Pottery"
 	},
+	{
+		"name": "Monument to Death",
+		"replaces": "Monument"
+		"uniqueTo": "Tru Death"
+		"culture": 10,
+		"happiness": 6,
+		"cost": 20,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+	},
 ]
