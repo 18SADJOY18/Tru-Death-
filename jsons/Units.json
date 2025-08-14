@@ -89,12 +89,27 @@
 		"unitType": "Archery",
 		"uniqueTo": "Tru Death",
 		"replaces": "War Elephant",
-		"movement": 10,
-		"strength": 40,
-		"rangedStrength": 70,
+		"movement": 6,
+		"strength": 60,
+		"rangedStrength": 60,
 		"cost": 60,
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus"],
 		"attackSound": "elephant"
+	}
+	{
+		"name": "Slow Death",
+		"unitType": "Sword",
+		"uniqueTo": "Tru Death",
+		"replaces": "Spearman",
+		"movement": 4,
+		"strength": 18,
+		"cost": 24,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["[+150]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	}
 	}
 ]
