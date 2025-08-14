@@ -85,14 +85,14 @@
 		"attackSound": "arrow"
 	}
 	{
-		"name": "Slow Elephant",
+		"name": "Slow Horse",
 		"unitType": "Archery",
 		"uniqueTo": "Tru Death",
 		"replaces": "War Elephant",
-		"movement": 14,
-		"strength": 60,
-		"rangedStrength": 40,
-		"cost": 160,
+		"movement": 10,
+		"strength": 40,
+		"rangedStrength": 70,
+		"cost": 60,
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus"],
 		"attackSound": "elephant"
