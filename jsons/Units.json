@@ -58,9 +58,10 @@
 		"attackSound": "arrow"
 	}
 	{
-		"name": "Brute",
+		"name": "Slow Barbarian",
 		"unitType": "Sword",
 		"uniqueTo": "Tru Death",
+		"replaces": "Brute",
 		"movement": 3,
 		"strength": 4,
 		"cost": 0,
@@ -82,5 +83,18 @@
 		"obsoleteTech": "Chivalry",
 		"uniques": ["No defensive terrain bonus", "Rough terrain penalty", "Never appears as a Barbarian unit"],
 		"attackSound": "arrow"
+	}
+	{
+		"name": "Slow Elephant",
+		"unitType": "Archery",
+		"uniqueTo": "Tru Death",
+		"replaces": "War Elephant",
+		"movement": 8,
+		"strength": 30,
+		"rangedStrength": 18,
+		"cost": 200,
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus"],
+		"attackSound": "elephant"
 	}
 ]
